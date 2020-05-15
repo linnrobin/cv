@@ -20,7 +20,7 @@ function App() {
         <header>
           <Navigation />
         </header>
-        <main className="container">
+        <main className="container overflow-auto" style={{ height: "70vh" }}>
           <Routes />
         </main>
         <footer
@@ -28,7 +28,7 @@ function App() {
           style={{
             backgroundColor: "rgba(255, 255, 255, 0.6)",
             boxShadow: "inset 0px 10px 10px -3px rgba(50, 50, 50, 0.75)",
-            minHeight: "20%",
+            minHeight: "20vh",
           }}
         >
           <div className="container">

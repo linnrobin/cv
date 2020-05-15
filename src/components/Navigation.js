@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function Navigation() {
   return (
     <nav
-      className="navbar navbar-expand-lg navbar-dark m-0"
+      className="navbar navbar-expand-lg navbar-light m-0"
       style={{ background: "rgba(255, 255, 255, 0)" }}
     >
       <Link
