@@ -32,16 +32,16 @@ function ExperiencePage() {
             <ul className="list-unstyled">
               <li>NESIAGAME (PT. Informasi Guna Optima)</li>
               <li>JAN 2015 - JAN 2020</li>
-              <li>5 years</li>
+              <li>5 years 1 month</li>
               <li>Medan - North Sumatera - Indonesia</li>
             </ul>
           </div>
           <div className="card-body">
             A growing start-up in a fast-paced, agile environment SDLC. My
-            experiences and responsibilities so far are :
+            experiences and responsibilities are :
             <li>
-              Currently finished 10 project (some are games, applications,
-              framework, and systems)
+              Finished 10 project (some are games, applications, framework, and
+              systems)
             </li>
             <li>
               Team Building to encourage coworker always give full involvement
@@ -93,17 +93,35 @@ function ExperiencePage() {
           aria-labelledby="headingTwo"
           data-parent="#accordionExample"
         >
+          <div
+            className="card-body bg-dark font-weight-bold"
+            style={{ color: "white" }}
+          >
+            <ul className="list-unstyled">
+              <li>Shinra-Tech</li>
+              <li>JUN 2012 - DEC 2014</li>
+              <li>2 years 7 months</li>
+              <li>Medan - North Sumatera - Indonesia</li>
+            </ul>
+          </div>
           <div className="card-body">
-            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
-            terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
-            skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
-            Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-            single-origin coffee nulla assumenda shoreditch et. Nihil anim
-            keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-            sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings
-            occaecat craft beer farm-to-table, raw denim aesthetic synth
-            nesciunt you probably haven't heard of them accusamus labore
-            sustainable VHS.
+            Great experience in handling a IT Computer store. Some key
+            responsibilities are :
+            <li>
+              Sell in-stock and not-in-stock-but-will-be-available-once-you-pay
+              products to client
+            </li>
+            <li>Purchase products from supplier</li>
+            <li>Analyze stock plan for better marketing efficiency</li>
+            <li>Maintain relationship with high valued customer</li>
+            <li>Make financial report</li>
+            <li>Stock checking</li>
+            <li>Handle all certified test for the store from suppliers</li>
+            <li>Attend seminars and meetings of product knowledge</li>
+            <li>
+              Train coworker to basic product selling, hardware and networking
+              maintenance
+            </li>
           </div>
         </div>
       </div>
@@ -128,17 +146,25 @@ function ExperiencePage() {
           aria-labelledby="headingThree"
           data-parent="#accordionExample"
         >
+          <div
+            className="card-body bg-dark font-weight-bold"
+            style={{ color: "white" }}
+          >
+            <ul className="list-unstyled">
+              <li>Sparkstation</li>
+              <li>JAN 2012 - APR 2012</li>
+              <li>4 months</li>
+              <li>Singapore</li>
+            </ul>
+          </div>
           <div className="card-body">
-            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
-            terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
-            skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
-            Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-            single-origin coffee nulla assumenda shoreditch et. Nihil anim
-            keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-            sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings
-            occaecat craft beer farm-to-table, raw denim aesthetic synth
-            nesciunt you probably haven't heard of them accusamus labore
-            sustainable VHS.
+            Singapore, South East Asia's most developed country in my
+            experience. My experience there was great although it doesn't last
+            long. Some key responsibilities were :
+            <li>Handle tickets from and to client</li>
+            <li>Installation and settings of servers (linux and windows)</li>
+            <li>Setting KVM per client requests</li>
+            <li>A lot of Wiring and Cabling management</li>
           </div>
         </div>
       </div>
@@ -163,17 +189,31 @@ function ExperiencePage() {
           aria-labelledby="headingFour"
           data-parent="#accordionExample"
         >
+          <div
+            className="card-body bg-dark font-weight-bold"
+            style={{ color: "white" }}
+          >
+            <ul className="list-unstyled">
+              <li>Combat Zone</li>
+              <li>MAY 2010 - DEC 2011</li>
+              <li>1 years 8 months</li>
+              <li>Singapore</li>
+            </ul>
+          </div>
           <div className="card-body">
-            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
-            terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
-            skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
-            Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-            single-origin coffee nulla assumenda shoreditch et. Nihil anim
-            keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-            sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings
-            occaecat craft beer farm-to-table, raw denim aesthetic synth
-            nesciunt you probably haven't heard of them accusamus labore
-            sustainable VHS.
+            Combat zone is a sport activity center that also have retails for
+            their equipment. Working there makes my body fit. So here are some
+            of my past responsibilities :
+            <li>Cater to client requests in the activity center</li>
+            <li>Schedule a usage time for client booking</li>
+            <li>
+              Maintain the facility to be in perfect condition by supervising
+              the contracted cleaners
+            </li>
+            <li>Maintain all the tools used in the facility</li>
+            <li>Sell equipment for clients</li>
+            <li>Purchase equipment from supplier</li>
+            <li>Make daily activity report</li>
           </div>
         </div>
       </div>
@@ -198,17 +238,36 @@ function ExperiencePage() {
           aria-labelledby="headingFive"
           data-parent="#accordionExample"
         >
+          <div
+            className="card-body bg-dark font-weight-bold"
+            style={{ color: "white" }}
+          >
+            <ul className="list-unstyled">
+              <li>Freelance</li>
+              <li>MAY 2007 - DEC 2011</li>
+              <li>4 years 8 months</li>
+              <li>Taiwan - Medan</li>
+            </ul>
+          </div>
           <div className="card-body">
-            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus
-            terry richardson ad squid. 3 wolf moon officia aute, non cupidatat
-            skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod.
-            Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid
-            single-origin coffee nulla assumenda shoreditch et. Nihil anim
-            keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
-            sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings
-            occaecat craft beer farm-to-table, raw denim aesthetic synth
-            nesciunt you probably haven't heard of them accusamus labore
-            sustainable VHS.123
+            <li>
+              My first experience in talking with clients and deducing what they
+              want
+            </li>
+            <li>My first earning from clients</li>
+            <li>Mostly a one time gig</li>
+            <br />
+            Some of the results made are :<li>CSS Template</li>
+            <li>Wordpress Websites</li>
+            <li>Drupal Websites and Blog</li>
+            <li>Joomla Websites and Blog</li>
+            <li>Flash game</li>
+            <li>Flash Company Profile</li>
+            <li>HTML Company Profile</li>
+            <li>Java games</li>
+            <li>Java program</li>
+            <br />
+            Mostly use PHP and MySQL, but some uses .NET and Microsoft SQL
           </div>
         </div>
       </div>

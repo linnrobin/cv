@@ -34,7 +34,11 @@ function App() {
           <div className="container">
             <span style={{ color: "black" }}>
               <ReactTypingEffect
-                text={["Place sticky footer content here.", "hello", "world"]}
+                text={[
+                  "您好！我姓林，大家叫我ROBIN。看完後我的網頁，請您留個言然後我們聊聊天吧！！！",
+                  "Hi, How are you, my name is Robin, After looking at my profile, don't forget to drop some contact so we can chit-chat about anything!!!",
+                  "初めました〜！私わロビンです。私のウェブサイトを見終わった後、メッセージを残してください、そして、雑談しましょう~~~",
+                ]}
                 speed={50}
                 eraseDelay={3000}
                 typingDelay={1000}

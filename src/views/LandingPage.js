@@ -3,7 +3,12 @@ import React from "react";
 function LandingPage() {
   return (
     <>
-      <h1>This is the landing Page</h1>
+      <div
+        className="row justify-content-center align-items-center"
+        style={{ height: "70vh" }}
+      >
+        <h1>Hi</h1>
+      </div>
     </>
   );
 }
