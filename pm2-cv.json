@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "cv-pm2",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
